@@ -16,8 +16,6 @@ os modelos utilizados.
 ```
 tfidf_pipeline_court_decisions.ipynb      Pipeline A: TF-IDF + modelos classicos
 transformers_pipeline_court_decisions.ipynb   Pipeline B: Transformers (fine-tuning)
-results_tfidf.csv                          Gerado pelo notebook A (necessario para o B)
-results_transformers.csv                   Gerado pelo notebook B
 ```
 
 ---
