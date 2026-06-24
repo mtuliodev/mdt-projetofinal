@@ -1,4 +1,4 @@
-# Predicting Brazilian Court Decisions — Guia de Reexecucao
+# Predicting Brazilian Court Decisions — Guia de Reexecução
 
 Projeto de Processamento de Linguagem Natural baseado no artigo:
 
